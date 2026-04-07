@@ -1,9 +1,9 @@
-💼 PORTAFOLIO TÉCNICO – IRIS CAYUN  
+ PORTAFOLIO TÉCNICO – IRIS CAYUN  
 Desarrollo en Python | Bases de datos | Proyectos tecnológicos  
 
 ------------------------------------------------------------
 
-1. 👩‍💻 SOBRE MÍ  
+1.  SOBRE MÍ  
 
 Soy titulada en Analista Programador y Análisis de Sistemas en AIEP y actualmente estudiante de cuarto año de Ingeniería en Informática.  
 
@@ -13,7 +13,7 @@ Mi objetivo es integrarme a equipos de trabajo donde pueda seguir creciendo prof
 
 ------------------------------------------------------------
 
-2. 🚀 PROYECTOS  
+2.  PROYECTOS  
 
 2.1 🔹 Sistema de Gestión Alquimax  
 Proyecto desarrollado en AIEP utilizando Python y SQLite para la gestión de productos y clientes.
@@ -39,7 +39,7 @@ https://github.com/iriscayun-ux/Alke_Wallet.git
 
 ------------------------------------------------------------
 
-3. 🛠 TECNOLOGÍAS  
+3.  TECNOLOGÍAS  
 
 • Python  
 • SQL  
@@ -49,7 +49,7 @@ https://github.com/iriscayun-ux/Alke_Wallet.git
 
 ------------------------------------------------------------
 
-4. 📚 FORMACIÓN  
+4.  FORMACIÓN  
 
 • Analista Programador y Análisis de Sistemas – AIEP  
 • Ingeniería en Informática (en curso)  
@@ -57,7 +57,7 @@ https://github.com/iriscayun-ux/Alke_Wallet.git
 
 ------------------------------------------------------------
 
-5. 📫 CONTACTO  
+5.  CONTACTO  
 
 LinkedIn: https://www.linkedin.com/in/iris-cayun-03518570
 
